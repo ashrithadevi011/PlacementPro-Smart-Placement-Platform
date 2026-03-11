@@ -26,6 +26,7 @@ This section shows well-known companies such as Google, Microsoft, Amazon, Meta,
 
 ## Image 4 – Student Registration Page:
 This page allows new students to create an account. Students enter their name, roll number, branch, CGPA, skills, and password to register. After registration, they can access the student dashboard. And also there is separate admin sign up page
+
 Student page:
 <img width="1366" height="856" alt="Screenshot 2026-03-08 061539" src="https://github.com/user-attachments/assets/40fd46e7-f32a-4d18-bc40-12c965ba366d" />
 Admin page:
